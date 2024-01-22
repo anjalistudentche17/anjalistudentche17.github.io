@@ -93990,7 +93990,7 @@ break
 case 5:q=8
 h=t.N
 s=11
-return A.U(A.ayD(A.tq("http","travel-companion-9g0p.onrender.com","seekComps",null),A.aA(["Access-Control-Allow-Origin","*","Content-Type","application/json","Accept","*/*"],h,h)),$async$ts)
+return A.U(A.ayD(A.tq("https","travel-companion-9g0p.onrender.com","seekComps",null),A.aA(["Access-Control-Allow-Origin","*","Content-Type","application/json","Accept","*/*"],h,h)),$async$ts)
 case 11:k=b
 if(k.b===200){h=k
 j=B.ay.ci(0,A.jb(A.j8(h.e).c.a.h(0,"charset")).ci(0,h.w))
